@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3  # v3로 업데이트
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@main
         with:
           github_user_name: "yeon0131"  # 직접 사용자 이름 입력
       - uses: crazy-max/ghaction-github-pages@v2.1.3
