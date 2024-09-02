@@ -1,20 +1,47 @@
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text=텍스트&fontSize=폰트크기)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOKURI_CODE&fontSize=90)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+### 🎀 Welcome to Seoyeon's github 🫧
 
-<!--
-**yeon0131/yeon0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🌱 I’m currently interested in `Java`, `Rust`
+- 🥅 2022 Goals : Build my own mainnet
+- ⚡ Fun fact: I love to swim and have `Life Guard` certification.-->
 
-Here are some ideas to get you started:
+<div style="display: flex, height:180px">
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" />
+</div>
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages and Tools
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> -->
+
+<br />
+
+---
+### Connect with me:
+
+[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
+<!-- [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube] -->
+[<img align="left" alt="SOKURI_CODE | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" />][twitter]
+<!-- [<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin] -->
+[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+
+[website]: https://velog.io/@imysh578
+[twitter]: https://twitter.com/imysh578
+<!-- [youtube]: https://youtube.com/ -->
+<!-- [linkedin]: https://linkedin.com/in/ -->
+[instagram]: https://instagram.com/_sokuri
+
+<br />
