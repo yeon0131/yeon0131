@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seoyeon's Code&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seoyeon's&nbsp;Code&fontSize=90)
 
 
 ### 🎀 Welcome to Seoyeon's github 🫧
