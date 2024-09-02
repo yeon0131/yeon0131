@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Seoyeon's&nbsp;Code&fontSize=80)
 
 
-### 🎀 Welcome to Seoyeon's github 🫧
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Welcome to Seoyeon's github 🫧
 
 <!-- 🌱 I’m currently interested in `Java`, `Rust`
 - 🥅 2022 Goals : Build my own mainnet
