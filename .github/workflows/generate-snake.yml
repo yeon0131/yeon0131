@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@main
         with:
           github_user_name: "yeon0131"
           outputs: dist/snake.svg
