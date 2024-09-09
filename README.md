@@ -9,7 +9,7 @@
 
 <div style="display: flex, height:160px">
 <p align="center">
-<img style="height:160px" src="https://github-readme-stats.vercel.app/api?username=yeon0131&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Seoyeon's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeon0131&layout=compact&theme=nord&hide_border=true&cache_seconds=86400" />
+  <img style="height:160px" src="https://github-readme-stats.vercel.app/api?username=yeon0131&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Seoyeon's github stats" /> <img style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeon0131&layout=compact&theme=nord&hide_border=true&cache_seconds=86400" />
 
 </p>
 
